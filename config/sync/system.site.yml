@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
+langcode: en
+uuid: faed264a-05eb-48fd-843c-419a1ac525aa
+name: SiteCat
+mail: me@localhost
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
