@@ -224,10 +224,10 @@
         },
         {
             "name": "ckeditor/autogrow",
-            "version": "4.16.2",
+            "version": "4.17.1",
             "dist": {
                 "type": "zip",
-                "url": "https://download.ckeditor.com/autogrow/releases/autogrow_4.16.2.zip"
+                "url": "https://download.ckeditor.com/autogrow/releases/autogrow_4.17.1.zip"
             },
             "type": "drupal-library",
             "extra": {
@@ -248,10 +248,10 @@
         },
         {
             "name": "ckeditor/fakeobjects",
-            "version": "4.16.2",
+            "version": "4.17.1",
             "dist": {
                 "type": "zip",
-                "url": "https://download.ckeditor.com/fakeobjects/releases/fakeobjects_4.16.2.zip"
+                "url": "https://download.ckeditor.com/fakeobjects/releases/fakeobjects_4.17.1.zip"
             },
             "type": "drupal-library",
             "extra": {
@@ -260,10 +260,10 @@
         },
         {
             "name": "ckeditor/image",
-            "version": "4.16.2",
+            "version": "4.17.1",
             "dist": {
                 "type": "zip",
-                "url": "https://download.ckeditor.com/image/releases/image_4.16.2.zip"
+                "url": "https://download.ckeditor.com/image/releases/image_4.17.1.zip"
             },
             "type": "drupal-library",
             "extra": {
@@ -272,10 +272,10 @@
         },
         {
             "name": "ckeditor/link",
-            "version": "4.16.2",
+            "version": "4.17.1",
             "dist": {
                 "type": "zip",
-                "url": "https://download.ckeditor.com/link/releases/link_4.16.2.zip"
+                "url": "https://download.ckeditor.com/link/releases/link_4.17.1.zip"
             },
             "type": "drupal-library",
             "extra": {
